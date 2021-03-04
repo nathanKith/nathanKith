@@ -29,13 +29,18 @@
     * Курс «Frontend-разработка на React»
 
 ## Навыки и умения
-| Стек технологий | *HTML+CSS, SCSS, Vanilla JS(ES6), webpack, git, Node.js, Go, C/C++, Python, React.js, Typescript;* |
-|------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| **Операционные системы** | *Ubuntu* |
-| **DBs** | *PostgreSQL, MongoDB* |
-| **Английский язык** | *Up-Intermediate* |
-| **Тестирование** | *Golang, JS(jest)* |
-| **Доп. навыки** | *Деплой, настройка Nginx* |
+
+* **Стек технологий** - *HTML, CSS(SASS), Vanilla JS(ES6), React.js, Typescript, webpack, git, Node.js, Go, C/C++, Python;*
+
+* **Операционные системы** - *Ubuntu*
+
+* **DBs** - *PostgreSQL, MongoDB*
+
+* **Английский язык** - *Up-Intermediate* 
+
+* **Тестирование** - *Golang, JS(jest)* 
+
+* **Доп. навыки** - *Деплой, настройка Nginx*
 
 ## Прочие достижения
 
