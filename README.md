@@ -30,7 +30,7 @@
 
 ## Навыки и умения
 
-* **Стек технологий** - *HTML, CSS(SASS), Vanilla JS(ES6), React.js, Typescript, webpack, git, Node.js, Go, C/C++, Python;*
+* **Стек технологий** - *HTML, CSS(SASS), Vanilla JS(ES6), React.js, Typescript, webpack, git, Node.js, Go, C/C++, Python*
 
 * **Операционные системы** - *Ubuntu*
 
